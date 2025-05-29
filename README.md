@@ -4,5 +4,4 @@
 
 ## Tecnologias que eu uso no meu dia a dia 
 
-<div style="display:inline-block"><br/>
-<img align="center" alt="HTML5" scr="[[https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white)](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)"/></div>
+HTML, CSS, JavaScript, React, Taiwind CSS | Postgree SQL | Git, Github
