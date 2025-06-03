@@ -18,7 +18,7 @@
 
 
 
-## Tecnologias que sei usar
+## Tecnologias que utilizo no dia a dia
 
 
 <div style="display: inline_block"><br>
