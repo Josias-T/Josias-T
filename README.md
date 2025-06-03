@@ -23,9 +23,9 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Josias-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Josias-PostgreSQL" height="30" width="40" src="https://devicons.railway.com/i/postgresql.svg">
   <img align="center" alt="Josias-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Josias-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Josias-PostgreSQL" height="30" width="40" src="https://devicons.railway.com/i/postgresql.svg">
   <img align="center" alt="Josias-Git" height="30" width="40" src="https://devicons.railway.com/i/git.svg">
   <img align="center" alt="Josias-GitHub" height="30" width="40" src="https://devicons.railway.com/i/github-light.svg">
 </div>
@@ -36,8 +36,8 @@
 
 <div>
       <img align="center" alt="Josias-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <img alinhar="esquerda" title="Tailwind" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-      <img alinhar="esquerda" title="React"   width="30px"   style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+      <img align="center" alt="Josias-Tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+      <img align="center" alt="Josias-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 </div>
 
 
